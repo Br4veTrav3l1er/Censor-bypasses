@@ -1,5 +1,5 @@
 # Censor-bypasses
-Methods to bypass internet censoring
+Methods to bypass internet censoring taken from (https://www.facebook.com/groups/pentesting4arabs/permalink/1185838135205815/)
 
 
 1) Cloudflare warp
